@@ -21,11 +21,6 @@ Oracle VirtualBox was used as the virtualization platform to create and manage t
 This screenshot shows the Oracle VirtualBox management interface.
 
 ![](https://github.com/yayabae-glitch/NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/virtualbox%20pic.PNG)
-### 3.2 Virtual Machine Configuration
-
-This section demonstrates the virtual machine configuration before starting Kali Linux.
-
-![VirtualBox VM Settings](screenshots/02-virtualbox-vm-settings.png)
 
 ## 4. Kali Linux Setup
 
