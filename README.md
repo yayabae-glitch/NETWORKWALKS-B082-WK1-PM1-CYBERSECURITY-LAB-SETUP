@@ -1,73 +1,122 @@
 # NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP
-# Cybersecurity Lab Setup
+# NETWORKWALKS CYBERSECURITY LAB SETUP
 
 ## 1. Project Overview
 
-This project is part of the Networkwalks Cybersecurity Program. The objective was to create a virtual cybersecurity laboratory using Oracle VirtualBox and install Kali Linux as the guest operating system.
+This project is part of the Networkwalks Cybersecurity Program. The objective was to establish a cybersecurity laboratory environment by installing Oracle VirtualBox and setting up Kali Linux as a virtual machine.
 
-## 2. Tools and Technologies
+The project provides practical experience with virtualization, software installation, virtual machine configuration and Linux operating system navigation.
+
+## 2. Project Objectives
+
+- Understand virtualization.
+- Download and install Oracle VirtualBox.
+- Create and configure a Kali Linux virtual machine.
+- Start and access Kali Linux.
+- Explore the Kali Linux desktop and terminal.
+- Develop technical and troubleshooting skills.
+- Document practical work using GitHub.
+
+## 3. Tools and Technologies
 
 - Oracle VirtualBox
 - Kali Linux
-- Windows Host Operating System
+- Windows Operating System
 - GitHub
 
-## 3. VirtualBox Setup
+# 4. Project Implementation
 
-Oracle VirtualBox was used as the virtualization platform to create and manage the Kali Linux virtual machine.
+## Step 1: Downloading Oracle VirtualBox
 
-### 3.1 VirtualBox Manager
+Oracle VirtualBox was downloaded from the official website to provide a virtualization platform for running Kali Linux.
 
-This screenshot shows the Oracle VirtualBox management interface.
+Official website: https://www.virtualbox.org/
+![]()
 
-![](https://github.com/yayabae-glitch/NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/virtualbox%20pic.PNG)
+![Oracle VirtualBox Download](screenshots/01-virtualbox-installation.png)
 
-## 4. Kali Linux Setup
+## Step 2: Installing Oracle VirtualBox
 
-### 4.1 Kali Linux Login Screen
+After downloading the installer, Oracle VirtualBox was installed on the Windows host computer by following the installation wizard.
 
-This screenshot shows Kali Linux running inside Oracle VirtualBox.
+![Oracle VirtualBox Installation](screenshots/01-virtualbox-installation.png)
 
-![Kali Linux Login](screenshots/03-kali-login.png)
+## Step 3: Opening Oracle VirtualBox Manager
 
-### 4.2 Kali Linux Desktop
+After installation, Oracle VirtualBox Manager was opened to create and manage the Kali Linux virtual machine.
 
-This screenshot demonstrates the Kali Linux desktop after successfully logging in.
+![VirtualBox Manager](screenshots/02-virtualbox-manager.png)
 
-![Kali Linux Desktop](screenshots/04-kali-desktop.png)
+## Step 4: Configuring the Virtual Machine
 
-### 4.3 System Information
+The Kali Linux virtual machine settings were reviewed and configured to allocate the necessary system resources.
 
-This screenshot displays system information obtained through the Kali Linux terminal.
+![Virtual Machine Configuration](screenshots/03-virtualbox-vm-settings.png)
 
-![System Information](screenshots/05-kali-system-information.png)
+## Step 5: Starting Kali Linux
 
-### 4.4 Final Lab Environment
+The Kali Linux virtual machine was started through Oracle VirtualBox.
 
-This screenshot demonstrates the completed virtual machine environment.
+The login screen confirmed that the virtual machine had started successfully.
 
-![Final Lab Environment](screenshots/06-final-lab.png)
+![Kali Linux Login Screen](screenshots/04-kali-login.png)
 
-## 5. Challenges Faced
+## Step 6: Accessing the Kali Linux Desktop
 
-The setup process involved understanding virtual machine configuration and ensuring that Kali Linux could run successfully in Oracle VirtualBox.
+After successfully logging in, the Kali Linux desktop environment was accessed.
 
-## 6. What I Learned
+![Kali Linux Desktop](screenshots/05-kali-desktop.png)
 
+## Step 7: Checking System Information
+
+The Kali Linux terminal was used to explore system information and become familiar with the Linux command-line environment.
+
+![Kali Linux System Information](screenshots/06-system-information.png)
+
+## Step 8: Final Cybersecurity Lab Environment
+
+The final result demonstrates Kali Linux running inside Oracle VirtualBox as a virtual cybersecurity learning environment.
+
+![Completed Cybersecurity Lab](screenshots/07-final-lab.png)
+
+# 5. Challenges and Troubleshooting
+
+During the setup process, understanding the virtual machine environment and its configuration was an important part of the practical work.
+
+The virtual machine settings were reviewed to ensure that Kali Linux could start successfully.
+
+# 6. Skills and Knowledge Gained
+
+Through this project, I gained practical experience in:
+
+- Downloading and installing Oracle VirtualBox.
 - Understanding virtualization.
-- Installing and using Oracle VirtualBox.
 - Creating and managing virtual machines.
-- Running Kali Linux in a virtual environment.
-- Navigating the Kali Linux desktop.
-- Using basic Linux terminal commands.
-- Documenting practical cybersecurity projects using GitHub.
+- Configuring virtual machine resources.
+- Running Kali Linux.
+- Navigating the Linux desktop.
+- Using the Linux terminal.
+- Documenting technical projects using GitHub.
+- Troubleshooting basic setup issues.
 
-## 7. Conclusion
+# 7. Conclusion
 
-This project provided practical experience in virtualization and cybersecurity laboratory setup. It improved my understanding of virtual machines and introduced me to the Kali Linux environment used for cybersecurity education and practice.
+The Cybersecurity Lab Setup project provided valuable practical experience in establishing a virtual cybersecurity environment.
+
+Installing Oracle VirtualBox and successfully running Kali Linux improved my understanding of virtualization and introduced me to the Linux environment used in cybersecurity learning.
+
+This project represents an important step in developing my technical knowledge and practical cybersecurity skills.
 
 ---
 
 **Program:** Networkwalks Cybersecurity Program
 
 **Project:** Cybersecurity Lab Setup
+
+**Week:** 1
+
+**Tools:** Oracle VirtualBox and Kali Linux
+
+**Host Operating System:** Windows
+
+**Purpose:** Educational cybersecurity practical work.
