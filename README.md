@@ -66,13 +66,13 @@ Step 5: Starting Kali Linux
 The Kali Linux virtual machine was started through Oracle VirtualBox.
 
 The login screen confirmed that the virtual machine had started successfully.
-![]()
+![Kali Linux Login](5_kali.PNG)
 
 
 Step 6: Accessing the Kali Linux Desktop
 
 After successfully logging in, the Kali Linux desktop environment was accessed.
-![Kali Capture](screenshots/01-kali-Capture.PNG)
+![Kali Capture]()
 
 
 
