@@ -20,7 +20,7 @@ Oracle VirtualBox was used as the virtualization platform to create and manage t
 
 This screenshot shows the Oracle VirtualBox management interface.
 
-![VirtualBox Manager](screenshots/01-virtualbox-manager.png)
+![VirtualBox Manager]([screenshots/01-virtualbox-manager.png](https://github.com/yayabae-glitch/NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/virtualbox%20pic.PNG))
 
 ### 3.2 Virtual Machine Configuration
 
