@@ -40,14 +40,14 @@ Step 1: Downloading Oracle VirtualBox
 Oracle VirtualBox was downloaded from the official website to provide a virtualization platform for running Kali Linux.
 
 Official website: https://www.virtualbox.org/
-
+![download oracle virtualbox](1_installer_VM.jpeg)
 
 
 Step 2: Installing Oracle VirtualBox
 
 After downloading the installer, Oracle VirtualBox was installed on the Windows host computer by following the installation wizard.
 
-![Oracle VirtualBox installation](screenshots/04-VM-installing.jpeg)
+![]()
 
 Step 3: Opening Oracle VirtualBox Manager
 
