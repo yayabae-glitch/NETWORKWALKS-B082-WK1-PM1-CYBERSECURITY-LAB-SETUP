@@ -72,7 +72,7 @@ The login screen confirmed that the virtual machine had started successfully.
 Step 6: Accessing the Kali Linux Desktop
 
 After successfully logging in, the Kali Linux desktop environment was accessed.
-![Kali Capture]()
+![Kali Linux Desktop](6_Capture.PNG)
 
 
 
