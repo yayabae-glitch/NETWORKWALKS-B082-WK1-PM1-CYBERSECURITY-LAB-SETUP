@@ -1,7 +1,7 @@
 # NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP
 # NETWORKWALKS CYBERSECURITY LAB SETUP
 
-. Project Overview
+1. Project Overview
 
 This project is part of the Networkwalks Cybersecurity Program. The objective was to establish a cybersecurity laboratory environment by installing Oracle VirtualBox and setting up Kali Linux as a virtual machine.
 
@@ -47,19 +47,18 @@ Step 2: Installing Oracle VirtualBox
 
 After downloading the installer, Oracle VirtualBox was installed on the Windows host computer by following the installation wizard.
 
-![](
-)
+![Oracle VirtualBox installation](screenshots/04-VM-installing.jpeg)
 
 Step 3: Opening Oracle VirtualBox Manager
 
 After installation, Oracle VirtualBox Manager was opened to create and manage the Kali Linux virtual machine.
-
+![Oracle VirtualBox Manager](screenshots/02-VM-Manager.jpeg)
 
 
 Step 4: Configuring the Virtual Machine
 
 The Kali Linux virtual machine settings were reviewed and configured to allocate the necessary system resources.
-
+![Oracle VirtualBox settings](screenshots/06-VM-settings.jpeg)
 
 
 Step 5: Starting Kali Linux
@@ -67,7 +66,7 @@ Step 5: Starting Kali Linux
 The Kali Linux virtual machine was started through Oracle VirtualBox.
 
 The login screen confirmed that the virtual machine had started successfully.
-
+![Oracle VirtualBox kali](screenshots/04-kali.PNG)
 
 
 Step 6: Accessing the Kali Linux Desktop
