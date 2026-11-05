@@ -58,7 +58,7 @@ After installation, Oracle VirtualBox Manager was opened to create and manage th
 Step 4: Configuring the Virtual Machine
 
 The Kali Linux virtual machine settings were reviewed and configured to allocate the necessary system resources.
-![Oracle VirtualBox settings](screenshots/06-VM-settings.jpeg)
+![Kali Linux settings](4_settingsNetwork.PNG)
 
 
 Step 5: Starting Kali Linux
@@ -66,7 +66,7 @@ Step 5: Starting Kali Linux
 The Kali Linux virtual machine was started through Oracle VirtualBox.
 
 The login screen confirmed that the virtual machine had started successfully.
-![Oracle VirtualBox kali](screenshots/05-kali.PNG)
+![]()
 
 
 Step 6: Accessing the Kali Linux Desktop
