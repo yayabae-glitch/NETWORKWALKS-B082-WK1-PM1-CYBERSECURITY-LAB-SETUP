@@ -52,7 +52,7 @@ After downloading the installer, Oracle VirtualBox was installed on the Windows 
 Step 3: Opening Oracle VirtualBox Manager
 
 After installation, Oracle VirtualBox Manager was opened to create and manage the Kali Linux virtual machine.
-![Oracle VirtualBox Manager](screenshots/02-VM-Manager.jpeg)
+![Oracle VirtualBox Manager](3_manager virtualbox pic.PNG)
 
 
 Step 4: Configuring the Virtual Machine
