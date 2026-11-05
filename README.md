@@ -47,7 +47,7 @@ Step 2: Installing Oracle VirtualBox
 
 After downloading the installer, Oracle VirtualBox was installed on the Windows host computer by following the installation wizard.
 
-
+![]()
 
 Step 3: Opening Oracle VirtualBox Manager
 
